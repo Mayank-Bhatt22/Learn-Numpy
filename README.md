@@ -33,4 +33,36 @@ I'm currently learning data analysis and this repo is part of my learning journe
 
 ## 🚀 Getting Started
 
-1. Clone the repo  
+1. Clone the repo  https://github.com/Mayank-Bhatt22/Learn-Numpy
+
+2. Install NumPy  
+
+3. Explore the `.py` or `.ipynb` files and start learning!
+
+---
+
+## 🌱 Still Learning...
+
+This is a work-in-progress repo. I'll keep updating it as I practice more and move into more advanced topics like:
+- Random numbers
+- Linear algebra with NumPy
+- Integration with Pandas and Matplotlib
+
+---
+
+## 🤝 Contributions
+
+You're welcome to fork, star ⭐, or suggest improvements!  
+This is a learning space, so feel free to drop your thoughts or share your favorite NumPy tips.
+
+---
+
+## 📩 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayank-bhat)
+- 💻 [GitHub](https://github.com/Mayank-Bhatt22)
+
+---
+
+> “The journey of a thousand lines of code begins with a single import.” – NumPy Learner 😄
+
